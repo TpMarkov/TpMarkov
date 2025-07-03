@@ -138,7 +138,7 @@
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/цветан-марков-270805290])) *(Add your actual link)*
+- 🔗 [LinkedIn]([https://www.linkedin.com/in/цветан-марков-270805290]) *(Add your actual link)*
 - 💼 [Portfolio Website](https://your-portfolio-link.com) *(Optional but powerful)*
 - ✉️ Email: your.email@example.com
 
