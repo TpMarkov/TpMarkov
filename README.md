@@ -14,31 +14,41 @@ I enjoy writing clean code, collaborating in agile environments, and continuousl
 
 ## 🧠 Tech Stack
 
-**Frontend**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)  
-![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-319795?logo=chakraui&logoColor=white)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-
-**Backend & Database**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
-
-**Tools**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+<table>
+  <tr>
+    <th>Frontend</th>
+    <th>Backend & Database</th>
+    <th>Tools</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB" /><br>
+      <img src="https://img.shields.io/badge/-Chakra%20UI-319795?logo=chakraui&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🎯 What I'm About
 
-- 🔨 Building modern, responsive UIs
-- 🤝 Collaborating in real-world team projects
-- 📈 Constantly learning new technologies
-- 💡 Working toward becoming a full-stack developer
+- 🔨 Building modern, responsive UIs  
+- 🤝 Collaborating in real-world team projects  
+- 📈 Constantly learning new technologies  
+- 💡 Working toward becoming a full-stack developer  
 
 ---
 
