@@ -1,18 +1,14 @@
-# 👋 Hi, I'm Tsvetan Markov
+# Hi, I'm Tsvetan Markov
 
-**Junior Web Developer | JavaScript | React**  
-📍 Lovech, Bulgaria — open to relocation  
-🌐 [GitHub](https://github.com/Markowcvetan) | [GitHub Alt](https://github.com/TpMarkov)
+**Junior Web Developer | JavaScript | React**
 
----
+I'm a junior web developer with hands-on experience building responsive, user-focused applications using modern technologies. My journey blends structured learning from **Telerik Academy** with real-world, team-based projects and self-driven study.
 
-I'm a passionate junior web developer with hands-on experience in building responsive, user-friendly applications using modern web technologies. My learning journey blends structured training at **Telerik Academy** with self-study and practical team projects.
-
-I enjoy writing clean code, collaborating in agile environments, and continuously improving my skills toward becoming a **full-stack developer**.
+I'm passionate about writing clean code, collaborating in agile teams, and continuously growing into a full-stack developer.
 
 ---
 
-## 🧠 Tech Stack
+## 🛠️ Tech Stack
 
 <table>
   <tr>
@@ -43,20 +39,22 @@ I enjoy writing clean code, collaborating in agile environments, and continuousl
 
 ---
 
-## 🎯 What I'm About
+## 💡 About Me
 
-- 🔨 Building modern, responsive UIs  
-- 🤝 Collaborating in real-world team projects  
-- 📈 Constantly learning new technologies  
-- 💡 Working toward becoming a full-stack developer  
-
----
-
-## 🌍 Languages
-
-- 🇬🇧 English: Advanced  
-- 🇩🇪 German: Intermediate
+- Building modern, responsive UIs  
+- Collaborating in real-world team projects  
+- Continuously learning new technologies  
+- Working toward becoming a full-stack developer  
 
 ---
 
-Thanks for stopping by! Feel free to connect or explore my repositories.
+## 🌐 Languages
+
+- English: Advanced  
+- German: Intermediate
+
+---
+
+## 📬 Contact
+
+Feel free to explore my repositories or connect for future collaboration.
