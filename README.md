@@ -68,7 +68,7 @@
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) *(Add your actual link)*
+- 🔗 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/%D1%86%D0%B2%D0%B5%D1%82%D0%B0%D0%BD-%D0%BC%D0%B0%D1%80%D0%BA%D0%BE%D0%B2-270805290/)) *(Add your actual link)*
 - 💼 [Portfolio Website](https://your-portfolio-link.com) *(Optional but powerful)*
 - ✉️ Email: your.email@example.com
 
