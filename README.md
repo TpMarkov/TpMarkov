@@ -70,7 +70,7 @@
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/цветан-марков-270805290) 
 - 💼 [Portfolio Website](https://your-portfolio-link.com) *(Optional but powerful)*
-- ✉️ Email: your.email@example.com
+- ✉️ Email: markovcvetan@gmail.com
 
 ---
 
