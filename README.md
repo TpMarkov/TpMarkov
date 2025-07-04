@@ -5,14 +5,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/цветан марков" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="цветан марков" height="30" width="40" />
-  </a>
-  <a href="mailto:markowcvetan@gmail.com" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="gmail" height="30" width="40" style="filter: brightness(0) saturate(100%) invert(25%) sepia(93%) saturate(7493%) hue-rotate(359deg) brightness(100%) contrast(101%);" />
-  </a>
-</p>
-<p align="left">
 <a href="https://linkedin.com/in/цветан-марков-270805290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="цветан марков" height="30" width="40" /></a>
 </p>
 
