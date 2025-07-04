@@ -5,7 +5,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/цветан-марков-270805290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="цветан марков" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/цветан-марков-270805290" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
+  </a>
+  &nbsp;
+  <a href="mailto:markowcvetan@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="30" height="30"/>
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
