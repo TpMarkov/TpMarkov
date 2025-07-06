@@ -4,9 +4,15 @@
 
 <div align="center">
 
-[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/цветан-марков-270805290)
-[![Gmail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:markowcvetan@gmail.com)
-[![Facebook](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg)](https://www.facebook.com/profile.php?id=61553067962651)
+  <a href="https://www.linkedin.com/in/цветан-марков-270805290" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="LinkedIn" />
+  </a>
+  <a href="mailto:markowcvetan@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="Gmail" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61553067962651" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="37" height="25" alt="Facebook" />
+  </a>
 
 </div>
 
@@ -25,14 +31,14 @@
 <h3 align="left">🛠 Languages and Tools</h3>
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" width="30" alt="React" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" width="30" alt="TailwindCSS" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" width="30" alt="MongoDB" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" width="30" alt="JavaScript" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" width="30" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="30" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" width="30" alt="Firebase" />
-  <img src="https://cdn.simpleicons.org/express/000000" height="30" width="30" alt="Express" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="37" height="25" alt="React" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="37" height="25" alt="Tailwind CSS" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="37" height="25" alt="MongoDB" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="37" height="25" alt="JavaScript" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" width="37" height="25" alt="HTML5" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" width="37" height="25" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="37" height="25" alt="Firebase" />
+  <img src="https://cdn.simpleicons.org/express/000000" width="37" height="25" alt="Express" />
 </div>
 
 #
@@ -63,3 +69,6 @@
 
 #
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/TpMarkov/count.svg?" />
+</div>
