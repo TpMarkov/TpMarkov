@@ -4,6 +4,9 @@
 
 <div align="center">
 
+  <h2>✉️ Let's Connect</h2>
+  <p>I'm always open to connecting with fellow developers, recruiters, and tech enthusiasts!</p>
+
   <a href="https://www.linkedin.com/in/цветан-марков-270805290" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="LinkedIn" />
   </a>
@@ -15,7 +18,6 @@
   </a>
 
 </div>
-
 #
 <br>
 
