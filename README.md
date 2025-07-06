@@ -1,38 +1,67 @@
-<!-- Contact Section -->
-<div align="center">
-  <h2>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="28" style="margin-bottom: -6px;" /> 
-    Get in Touch
-  </h2>
-  <p>I'm always open to exciting new opportunities, collaborations, or just a chat about tech!</p>
+<img align="left" height="400" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg" />
 
-  <a href="https://www.linkedin.com/in/цветан-марков-270805290" target="_blank" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" style="margin: 0 10px;" />
+#
+
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/цветан-марков-270805290" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="LinkedIn" />
   </a>
-  <a href="mailto:markowcvetan@gmail.com" target="_blank" title="Email">
-    <img src="https://img.icons8.com/ios-filled/50/000000/gmail.png" width="40" style="margin: 0 10px;" />
+  <a href="mailto:markowcvetan@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="Gmail" />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=61553067962651" target="_blank" title="Facebook">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" style="margin: 0 10px;" />
+  <a href="https://www.facebook.com/profile.php?id=61553067962651" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="37" height="25" alt="Facebook" />
   </a>
+
+</div>
+
+#
+<br>
+
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=TpMarkov.TpMarkov" />
+</div>
+
+<div align="center">
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="37" height="25" alt="React" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="37" height="25" alt="Tailwind CSS" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="37" height="25" alt="MongoDB" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="37" height="25" alt="JavaScript" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" width="37" height="25" alt="HTML5" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" width="37" height="25" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="37" height="25" alt="Firebase" />
+  <img src="https://cdn.simpleicons.org/express/000000" width="37" height="25" alt="Express" />
+</div>
+
+#
+
+<!-- First Line: GitHub Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TpMarkov&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true" height="230" />
 </div>
 
 <br/>
 
-<!-- Tech Stack Section -->
-<div align="center">
-  <h2>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/code/code-original.svg" width="28" style="margin-bottom: -6px;" />
-    My Tech Toolbox
-  </h2>
-  <p>Here are the technologies I work with most often:</p>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" style="margin: 0 10px;" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" style="margin: 0 10px;" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" style="margin: 0 10px;" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" style="margin: 0 10px;" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" style="margin: 0 10px;" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" style="margin: 0 10px; background-color: white; border-radius: 5px;" alt="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" style="margin: 0 10px;" alt="Firebase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" style="margin: 0 10px;" alt="Tailwind CSS" />
+<!-- Second Line: Streak Stats + Top Languages -->
+<div align="center" style="display: flex; gap: 20px;">
+  <img src="https://streak-stats.demolab.com?user=TpMarkov&theme=default&hide_border=true&border_radius=5" height="230" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TpMarkov&layout=compact&langs_count=6&theme=default&hide_border=true" height="230" />
 </div>
+
+<br/>
+
+<!-- Third Line: Contribution Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TpMarkov&area=true&hide_border=true&theme=light" height="250" alt="Activity graph" />
+</div>
+
+<br/>
+
+<!-- Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TpMarkov&theme=flat&column=6" height="150" alt="Trophies" />
+</div>
+
+#
