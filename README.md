@@ -69,6 +69,6 @@
 <br/>
 
 <!-- Trophies -->
-<div align="center">
+<div align="flex-start">
   <img src="https://github-profile-trophy.vercel.app/?username=TpMarkov&theme=flat&column=6" height="100" alt="Trophies" />
 </div>
