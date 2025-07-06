@@ -4,11 +4,11 @@
   <img align="left" height="400" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg" />
 
   <!-- Right: Tech Toolbox -->
-  <div>
+  <div align="center">
     <h2 align="center">🧰 My Tech Toolbox</h2>
     <p>Technologies I’ve been working with recently:</p>
 
-   <img src="https://cdn.simpleicons.org/react/61DAFB" width="37" height="25" alt="React" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="37" height="25" alt="React" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="37" height="25" alt="Tailwind CSS" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" width="37" height="25" alt="MongoDB" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="37" height="25" alt="JavaScript" />
