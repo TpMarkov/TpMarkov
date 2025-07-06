@@ -39,15 +39,25 @@
 
 <h3 align="left">🔥 My Stats</h3>
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=TpMarkov&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true" height="170" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=TpMarkov&theme=default&hide_border=true&border_radius=5" height="170" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TpMarkov&layout=compact&langs_count=6&theme=default&hide_border=true" height="170" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TpMarkov&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true" height="200" alt="GitHub stats" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=TpMarkov&theme=default&hide_border=true&border_radius=5" height="180" alt="Streak stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TpMarkov&layout=compact&langs_count=6&theme=default&hide_border=true" height="150" alt="Top languages" />
-  <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TpMarkov&area=true&hide_border=true&theme=light" height="150" alt="Activity graph" />
-  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TpMarkov&area=true&hide_border=true&theme=light" height="200" alt="Activity graph" />
+  <br /><br />
   <img src="https://github-profile-trophy.vercel.app/?username=TpMarkov&theme=flat&column=6" height="150" alt="Trophies" />
 </div>
 
