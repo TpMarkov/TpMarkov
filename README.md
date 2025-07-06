@@ -28,8 +28,6 @@
 
 #
 
-<h3 align="left">🛠 Languages and Tools</h3>
-
 <div align="left">
   <img src="https://cdn.simpleicons.org/react/61DAFB" width="37" height="25" alt="React" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="37" height="25" alt="Tailwind CSS" />
