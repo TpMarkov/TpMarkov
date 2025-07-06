@@ -25,7 +25,7 @@
 </div>
 <div align="center">
 
-  <h2>🛠️ My Tech Toolbox</h2>
+  <h2></h2> My Tech Toolbox</h2>
   <p>Technologies I’ve been working with recently:</p>
 
   <img src="https://cdn.simpleicons.org/react/61DAFB" width="37" height="25" alt="React" />
