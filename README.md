@@ -63,32 +63,3 @@
 
 #
 
-### 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/TpMarkov/TpMarkov/output/snake.svg" alt="Snake animation" />
-</div>
-
-#
-
-### 🕹️ Spotify Activity
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=TpMarkov&count=5" alt="Recently played" />
-</div>
-
-#
-
-### 👾 Pacman Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TpMarkov/TpMarkov/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TpMarkov/TpMarkov/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/TpMarkov/TpMarkov/output/pacman-contribution-graph.svg">
-</picture>
-
-#
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/TpMarkov/count.svg?" />
-</div>
