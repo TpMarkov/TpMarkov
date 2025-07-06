@@ -64,10 +64,6 @@
 
 <br/>
 
-<!-- Contribution Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TpMarkov&area=true&hide_border=true&theme=light" height="250" alt="Activity graph" />
-</div>
 
 <br/>
 
