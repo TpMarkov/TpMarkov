@@ -70,5 +70,5 @@
 
 <!-- Trophies -->
 <div align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=TpMarkov&theme=flat&column=6" height="100" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=TpMarkov&theme=flat&column=6" height="100" alt="Trophies" />
 </div>
