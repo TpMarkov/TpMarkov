@@ -30,6 +30,7 @@
 <h2>My Tech Toolbox</h2>
   <p>Technologies I’ve been working with recently:</p>
 
+<div styles={{display:"flex" flex-wrap:"wrap"}}>
   <img src="https://cdn.simpleicons.org/react/61DAFB" width="37" height="25" alt="React" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="37" height="25" alt="Tailwind CSS" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" width="37" height="25" alt="MongoDB" />
