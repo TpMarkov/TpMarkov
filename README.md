@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 30px;">
 <div align="center">
-  <img src="https://i.ibb.co/jPmM7hf5/44b57182-ef69-4720-8d58-2c17bbe6114b.png" alt="Tech Stack Banner - Professional" style="width: 100%; max-height: 200px; object-fit: cover;" />
+  <img src="https://i.ibb.co/jPmM7hf5/44b57182-ef69-4720-8d58-2c17bbe6114b.png" alt="Tech Stack Banner - Professional" style="width: 100%; max-height: 100px; object-fit: cover;" />
 </div>
 
   <!-- Right: Tech Toolbox -->
