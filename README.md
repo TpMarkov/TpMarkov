@@ -3,12 +3,11 @@
   <img src="https://chat.openai.com/mnt/data/A_screenshot_of_a_GitHub_profile_header_for_a_juni.png" alt="Tech Stack Banner - Professional" style="width: 100%; max-height: 200px; object-fit: cover;" />
 </div>
 
-<!-- BANNER SECTION: Version 2 (Fun Style) -->
-<!-- 
+
 <div align="center">
   <img src="https://chat.openai.com/mnt/data/A_banner_for_a_GitHub_profile_displays_a_header_wi.png" alt="Tech Stack Banner - Fun" style="width: 100%; max-height: 200px; object-fit: cover;" />
 </div>
--->
+
 
 <br>
 
