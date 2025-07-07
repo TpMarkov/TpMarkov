@@ -1,8 +1,5 @@
 <div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 30px;">
 
-  <!-- Left: Image -->
-  <img align="left" height="400" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg" />
-
   <!-- Right: Tech Toolbox -->
   <div align="center">
     <h2 align="center">🧰 My Tech Toolbox</h2>
