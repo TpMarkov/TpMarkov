@@ -1,3 +1,17 @@
+<!-- BANNER SECTION: Version 1 (Professional Neon Style) -->
+<div align="center">
+  <img src="https://chat.openai.com/mnt/data/A_screenshot_of_a_GitHub_profile_header_for_a_juni.png" alt="Tech Stack Banner - Professional" style="width: 100%; max-height: 200px; object-fit: cover;" />
+</div>
+
+<!-- BANNER SECTION: Version 2 (Fun Style) -->
+<!-- 
+<div align="center">
+  <img src="https://chat.openai.com/mnt/data/A_banner_for_a_GitHub_profile_displays_a_header_wi.png" alt="Tech Stack Banner - Fun" style="width: 100%; max-height: 200px; object-fit: cover;" />
+</div>
+-->
+
+<br>
+
 <div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 30px;">
 
   <!-- Right: Tech Toolbox -->
@@ -5,14 +19,14 @@
     <h2 align="center">🧰 My Tech Toolbox</h2>
     <p>Technologies I’ve been working with recently:</p>
 
-  <img src="https://cdn.simpleicons.org/react/61DAFB" width="37" height="25" alt="React" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="37" height="25" alt="Tailwind CSS" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="37" height="25" alt="MongoDB" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="37" height="25" alt="JavaScript" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" width="37" height="25" alt="HTML5" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" width="37" height="25" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="37" height="25" alt="Firebase" />
-  <img src="https://cdn.simpleicons.org/express/000000" width="37" height="25" alt="Express" />
+    <img src="https://cdn.simpleicons.org/react/61DAFB" width="37" height="25" alt="React" />
+    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="37" height="25" alt="Tailwind CSS" />
+    <img src="https://cdn.simpleicons.org/mongodb/47A248" width="37" height="25" alt="MongoDB" />
+    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="37" height="25" alt="JavaScript" />
+    <img src="https://cdn.simpleicons.org/html5/E34F26" width="37" height="25" alt="HTML5" />
+    <img src="https://cdn.simpleicons.org/css3/1572B6" width="37" height="25" alt="CSS3" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="37" height="25" alt="Firebase" />
+    <img src="https://cdn.simpleicons.org/express/000000" width="37" height="25" alt="Express" />
   </div>
 
 </div>
@@ -45,10 +59,6 @@
 </div>
 
 <br>
-
-
-
-<br/>
 
 <!-- Streak Stats + Top Languages -->
 <div align="center">
