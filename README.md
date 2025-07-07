@@ -1,4 +1,7 @@
 <div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 30px;">
+<div align="center">
+  <img src="https://chat.openai.com/mnt/data/A_screenshot_of_a_GitHub_profile_header_for_a_juni.png" alt="Tech Stack Banner - Professional" style="width: 100%; max-height: 200px; object-fit: cover;" />
+</div>
 
   <!-- Right: Tech Toolbox -->
   <div align="center">
