@@ -36,7 +36,7 @@
 
 <br clear="both">
 
-<div align="right">
+<div align="center">
   <a href="https://www.facebook.com/share/1DvDatE9PG/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="37" height="25" alt="facebook logo"  />
   </a>
