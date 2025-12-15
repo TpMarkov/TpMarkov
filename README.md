@@ -11,7 +11,6 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
   <img width="10" />
-  <img width="10" />
   <img src="https://cdn.simpleicons.org/prisma/2D3748" height="30" alt="prisma logo" />
   <img width="10" />
   <img src="https://cdn.simpleicons.org/convex/000000" height="30" alt="convex logo" />
