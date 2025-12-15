@@ -11,9 +11,7 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="30" alt="prisma logo" />
-  <img width="10" />
-  <img src="https://raw.githubusercontent.com/convex-dev/convex-brand/main/logo/convex-logo.svg" height="30" alt="convex logo" />  
+  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="30" alt="prisma logo" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
