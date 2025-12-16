@@ -1,18 +1,18 @@
-<div align="center">
-  <h1>Цветан Марков</h1>
-  <p>Full-Stack Developer specializing in modern web and mobile apps with AI integrations | Passionate about scalable solutions and open-source contributions</p>
-  
-  <!-- Visitor and Followers Badges -->
-  <img src="https://img.shields.io/github/followers/TpMarkov?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Followers" />
-  <img src="https://komarev.com/ghpvc/?username=TpMarkov&style=for-the-badge&color=blue" alt="Profile Views" />
-  <a href="mailto:Markowcvetan@gmail.com">
-    <img src="https://img.shields.io/badge/Hire%20Me-Contact-blue?style=for-the-badge&logo=email" alt="Hire Me" />
-  </a>
-</div>
+# ɪ'ᴍ ᴄᴠᴇᴛᴀɴ!
 
-###
+*Full-Stack Developer / AI Integrator*
 
-### Skills
+Full-Stack Developer specializing in modern web and mobile apps with AI integrations | Passionate about scalable solutions and open-source contributions.
+
+* ✨ Student of code :)
+* 🌱 I’m currently learning advanced Next.js, AI tools, and cloud services.
+* ❤ Contributing to Open Source.
+* 💻 Visit my [Portfolio](https://portfolio-xi-umber-iqmksi764o.vercel.app) for more details about me.
+
+---
+
+## ᴛᴇᴄʜ sᴛᴀᴄᴋ
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
   <img width="8" />
@@ -43,39 +43,52 @@
   <img src="https://raw.githubusercontent.com/RustForWeb/shadcn-ui/main/logo.svg" height="30" alt="shadcn logo" />
 </div>
 
-###
+### Current Learning
 
-### Projects
-- **[NodeBase Workflow](https://github.com/TpMarkov/nodebase)**: Visual automation platform with drag-and-drop workflows, AI integrations, and real-time monitoring. Tech: Next.js 16, TypeScript, Prisma, React Flow.
-  
-- **[Signalist Stock Market](https://github.com/TpMarkov/liveStock)**: Real-time stock dashboard with heatmaps, news, and personalization. Tech: Next.js 16, TypeScript, Tailwind CSS, MongoDB.
+* Deepening knowledge in AI integrations and real-time apps.
+* Exploring Next.js 16 patterns and database ORMs.
+* Improving skills in mobile development with Android Studio.
 
-- **[Vibe Coding Assistant](https://github.com/TpMarkov/vibe)**: AI-powered tool for building apps via natural language. Tech: Next.js 15, TypeScript, Clerk, tRPC, E2B.
+### Latest Projects
 
-- **[NextPro Blog](https://github.com/TpMarkov/nextjs16-blog)**: Real-time blogging platform with live comments and dark mode. Tech: Next.js 16, Convex, Tailwind CSS, Prisma.
+* [NodeBase Workflow](https://github.com/TpMarkov/nodebase): Visual automation platform with drag-and-drop workflows, AI integrations, and real-time monitoring. Tech: Next.js 16, TypeScript, Prisma, React Flow.
+* [Signalist Stock Market](https://github.com/TpMarkov/liveStock): Real-time stock dashboard with heatmaps, news, and personalization. Tech: Next.js 16, TypeScript, Tailwind CSS, MongoDB.
+* [Vibe Coding Assistant](https://github.com/TpMarkov/vibe): AI-powered tool for building apps via natural language. Tech: Next.js 15, TypeScript, Clerk, tRPC, E2B.
 
-- **[OpenAI Platform](https://github.com/TpMarkov/open-ai)**: AI interaction platform with video calls, transcripts, and subscriptions. Tech: Next.js 15, React 19, Drizzle ORM, OpenAI API.
+## 🏆 ɢɪᴛʜᴜʙ ᴛʀᴏᴘʜɪᴇs 🏆
 
-- **[Evenets](https://github.com/TpMarkov/evenets-nextjs16-tutorial)**: Developer events hub with database integrations. Tech: Next.js 16, TypeScript.
-
-###
-
-### Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TpMarkov&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=true" height="120" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TpMarkov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt&hide_border=false" height="120" alt="languages graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TpMarkov&radius=16&theme=cobalt&area=true&hide_border=true&hide_title=true" height="250" alt="activity-graph graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=TpMarkov&theme=tokyonight" alt="GitHub Trophies" />
 </div>
 
-###
+## 📊 ɢɪᴛʜᴜʙ sᴛᴀᴛs 📊
 
-### Connect with Me
+| GitHub Stats | Streak Stats |
+| --- | --- |
+| <img src="https://github-readme-stats.vercel.app/api?username=TpMarkov&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph" />  | <img src="https://streak-stats.demolab.com?user=TpMarkov&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="150" alt="streak graph" /> |
+
+| Top Languages | Activity Graph |
+| --- | --- |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TpMarkov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />  | <img src="https://github-readme-activity-graph.vercel.app/graph?username=TpMarkov&radius=16&theme=tokyonight&area=true&hide_border=true&hide_title=true" height="300" alt="activity-graph graph" /> |
+
+## 📈 ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ ɢʀᴀᴘʜ 📈
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TpMarkov&radius=16&theme=tokyonight&area=true&hide_border=true" height="300" alt="contribution graph" />
+</div>
+
+---
+
+## 🤝 ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ 🤝
+
 <div align="center">
   <a href="https://www.linkedin.com/in/цветан-марков-270805290" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:Markowcvetan@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://portfolio-xi-umber-iqmksi764o.vercel.app" target="_blank">Portfolio</a>
+  <a href="https://portfolio-xi-umber-iqmksi764o.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio" />
+  </a>
 </div>
