@@ -1,10 +1,18 @@
 <div align="center">
   <h1>Цветан Марков</h1>
-  <p>Full-Stack Developer | Building modern web and mobile applications</p>
+  <p>Full-Stack Developer specializing in modern web and mobile apps with AI integrations | Passionate about scalable solutions and open-source contributions</p>
+  
+  <!-- Visitor and Followers Badges -->
+  <img src="https://img.shields.io/github/followers/TpMarkov?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=TpMarkov&style=for-the-badge&color=blue" alt="Profile Views" />
+  <a href="mailto:Markowcvetan@gmail.com">
+    <img src="https://img.shields.io/badge/Hire%20Me-Contact-blue?style=for-the-badge&logo=email" alt="Hire Me" />
+  </a>
 </div>
 
 ###
 
+### Skills
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
   <img width="8" />
@@ -37,42 +45,38 @@
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo" />
-</div>
-
-###
-
 ### Projects
-
-- **[NodeBase Workflow](https://github.com/TpMarkov/nodebase)**: A powerful visual automation platform for creating, managing, and executing complex workflows via a drag-and-drop interface, with support for multi-trigger automation, AI integrations, HTTP requests, real-time monitoring, secure credential management, and notifications. Built with Next.js 16, TypeScript, PostgreSQL (Prisma ORM), React Flow, Inngest, Better-Auth, and Vercel AI SDK.
+- **[NodeBase Workflow](https://github.com/TpMarkov/nodebase)**: Visual automation platform with drag-and-drop workflows, AI integrations, and real-time monitoring. Tech: Next.js 16, TypeScript, Prisma, React Flow.
   
-- **[Signalist Stock Market](https://github.com/TpMarkov/liveStock)**: A web application for traders and investors providing real-time global market data, including dashboards with TradingView widgets, stock heatmaps, and news updates, along with user personalization and secure authentication. Developed using Next.js 16 (App Router), TypeScript, Tailwind CSS, Shadcn/UI, Radix UI, Better-Auth, MongoDB (Mongoose), and Inngest.
+- **[Signalist Stock Market](https://github.com/TpMarkov/liveStock)**: Real-time stock dashboard with heatmaps, news, and personalization. Tech: Next.js 16, TypeScript, Tailwind CSS, MongoDB.
 
-- **[Vibe Coding Assistant](https://github.com/TpMarkov/vibe)**: An AI-powered development environment that allows users to build applications and websites by describing ideas in natural language, handling coding, scaffolding, and deployment for rapid prototyping and learning. Utilizes Next.js 15, TypeScript, Tailwind CSS, Radix UI, Clerk, Prisma, tRPC, Inngest, and AI tools like E2B Code Interpreter.
+- **[Vibe Coding Assistant](https://github.com/TpMarkov/vibe)**: AI-powered tool for building apps via natural language. Tech: Next.js 15, TypeScript, Clerk, tRPC, E2B.
 
-- **[NextPro Blog](https://github.com/TpMarkov/nextjs16-blog)**: A real-time blogging platform for content creators and readers, featuring live presence, rich commenting, responsive design with dark mode, and secure authentication. Powered by Next.js 16, Convex, Better Auth, Tailwind CSS, Radix UI, Shadcn UI, React Hook Form (Zod), and Prisma ORM with PostgreSQL.
+- **[NextPro Blog](https://github.com/TpMarkov/nextjs16-blog)**: Real-time blogging platform with live comments and dark mode. Tech: Next.js 16, Convex, Tailwind CSS, Prisma.
 
-- **[OpenAI Platform](https://github.com/TpMarkov/open-ai)**: A next-generation AI platform for building and interacting with intelligent assistants via video calls, chat, and recordings, including meeting transcripts, storage, and subscription plans. Built with Next.js 15, React 19, Tailwind CSS, Drizzle ORM (Neon Serverless), Stream Video SDK, OpenAI Realtime API, and TanStack Query.
+- **[OpenAI Platform](https://github.com/TpMarkov/open-ai)**: AI interaction platform with video calls, transcripts, and subscriptions. Tech: Next.js 15, React 19, Drizzle ORM, OpenAI API.
 
-- **[Evenets](https://github.com/TpMarkov/evenets-nextjs16-tutorial)**: A tutorial project serving as a hub for discovering essential developer events, built with Next.js 16 and featuring components for database integration, hooks, and libraries. Primarily in TypeScript, with JavaScript and CSS elements.
+- **[Evenets](https://github.com/TpMarkov/evenets-nextjs16-tutorial)**: Developer events hub with database integrations. Tech: Next.js 16, TypeScript.
 
 ###
 
+### Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TpMarkov&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=true&order=1" height="120" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TpMarkov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt&hide_border=false&order=2" height="120" alt="languages graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TpMarkov&radius=16&theme=cobalt&area=true&order=5&hide_border=true&hide_title=true" height="250" alt="activity-graph graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TpMarkov&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=true" height="120" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TpMarkov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt&hide_border=false" height="120" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=TpMarkov&theme=cobalt&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="120" alt="streak graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TpMarkov&radius=16&theme=cobalt&area=true&hide_border=true&hide_title=true" height="250" alt="activity-graph graph" />
 </div>
 
 ###
 
+### Connect with Me
 <div align="center">
   <a href="https://www.linkedin.com/in/цветан-марков-270805290" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
   <a href="mailto:Markowcvetan@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
   <a href="https://portfolio-xi-umber-iqmksi764o.vercel.app" target="_blank">Portfolio</a>
 </div>
