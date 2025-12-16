@@ -58,7 +58,7 @@ Full-Stack Developer specializing in modern web and mobile apps with AI integrat
 
 ## 📊 ɢɪᴛʜᴜʙ sᴛᴀᴛs 📊
 
-| GitHub Stats | Streak Stats |
+| GitHub Stats |
 | --- | --- |
 
 | Top Languages | Activity Graph |
