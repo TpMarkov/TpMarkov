@@ -43,6 +43,22 @@
 
 ###
 
+### Projects
+
+- **[NodeBase Workflow](https://github.com/TpMarkov/nodebase)**: A powerful visual automation platform for creating, managing, and executing complex workflows via a drag-and-drop interface, with support for multi-trigger automation, AI integrations, HTTP requests, real-time monitoring, secure credential management, and notifications. Built with Next.js 16, TypeScript, PostgreSQL (Prisma ORM), React Flow, Inngest, Better-Auth, and Vercel AI SDK.
+  
+- **[Signalist Stock Market](https://github.com/TpMarkov/liveStock)**: A web application for traders and investors providing real-time global market data, including dashboards with TradingView widgets, stock heatmaps, and news updates, along with user personalization and secure authentication. Developed using Next.js 16 (App Router), TypeScript, Tailwind CSS, Shadcn/UI, Radix UI, Better-Auth, MongoDB (Mongoose), and Inngest.
+
+- **[Vibe Coding Assistant](https://github.com/TpMarkov/vibe)**: An AI-powered development environment that allows users to build applications and websites by describing ideas in natural language, handling coding, scaffolding, and deployment for rapid prototyping and learning. Utilizes Next.js 15, TypeScript, Tailwind CSS, Radix UI, Clerk, Prisma, tRPC, Inngest, and AI tools like E2B Code Interpreter.
+
+- **[NextPro Blog](https://github.com/TpMarkov/nextjs16-blog)**: A real-time blogging platform for content creators and readers, featuring live presence, rich commenting, responsive design with dark mode, and secure authentication. Powered by Next.js 16, Convex, Better Auth, Tailwind CSS, Radix UI, Shadcn UI, React Hook Form (Zod), and Prisma ORM with PostgreSQL.
+
+- **[OpenAI Platform](https://github.com/TpMarkov/open-ai)**: A next-generation AI platform for building and interacting with intelligent assistants via video calls, chat, and recordings, including meeting transcripts, storage, and subscription plans. Built with Next.js 15, React 19, Tailwind CSS, Drizzle ORM (Neon Serverless), Stream Video SDK, OpenAI Realtime API, and TanStack Query.
+
+- **[Evenets](https://github.com/TpMarkov/evenets-nextjs16-tutorial)**: A tutorial project serving as a hub for discovering essential developer events, built with Next.js 16 and featuring components for database integration, hooks, and libraries. Primarily in TypeScript, with JavaScript and CSS elements.
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TpMarkov&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TpMarkov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt&hide_border=false&order=2" height="150" alt="languages graph" />
