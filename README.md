@@ -55,17 +55,11 @@ Full-Stack Developer specializing in modern web and mobile apps with AI integrat
 * [Signalist Stock Market](https://github.com/TpMarkov/liveStock): Real-time stock dashboard with heatmaps, news, and personalization. Tech: Next.js 16, TypeScript, Tailwind CSS, MongoDB.
 * [Vibe Coding Assistant](https://github.com/TpMarkov/vibe): AI-powered tool for building apps via natural language. Tech: Next.js 15, TypeScript, Clerk, tRPC, E2B.
 
-## 🏆 ɢɪᴛʜᴜʙ ᴛʀᴏᴘʜɪᴇs 🏆
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TpMarkov&theme=tokyonight" alt="GitHub Trophies" />
-</div>
 
 ## 📊 ɢɪᴛʜᴜʙ sᴛᴀᴛs 📊
 
 | GitHub Stats | Streak Stats |
 | --- | --- |
-| <img src="https://github-readme-stats.vercel.app/api?username=TpMarkov&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph" />  | <img src="https://streak-stats.demolab.com?user=TpMarkov&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="150" alt="streak graph" /> |
 
 | Top Languages | Activity Graph |
 | --- | --- |
