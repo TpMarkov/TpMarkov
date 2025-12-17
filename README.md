@@ -7,7 +7,7 @@ Full-Stack Developer specializing in modern web and mobile apps with AI integrat
 * ✨ Student of code :)
 * 🌱 I’m currently learning advanced Next.js, AI tools, and cloud services.
 * ❤ Contributing to Open Source.
-* 💻 Visit my [Portfolio](https://portfolio-xi-umber-iqmksi764o.vercel.app) for more details about me.
+* 💻 Visit my [Portfolio](https://portfolio-xi-umber-iqmksi764o.vercel.app/) for more details about me.
 
 ---
 
