@@ -1,4 +1,4 @@
-# ɪ'ᴍ ᴄᴠᴇᴛᴀɴ!
+# ɪ'ᴍ Tsvetan!
 
 *Full-Stack Developer / AI Integrator*
 
