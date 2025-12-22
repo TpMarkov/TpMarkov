@@ -55,6 +55,7 @@ Full-Stack Developer specializing in modern web and mobile apps with AI integrat
 * [Signalist Stock Market](https://github.com/TpMarkov/liveStock): Real-time stock dashboard with heatmaps, news, and personalization. Tech: Next.js 16, TypeScript, Tailwind CSS, MongoDB.
 * [Vibe Coding Assistant](https://github.com/TpMarkov/vibe): AI-powered tool for building apps via natural language. Tech: Next.js 15, TypeScript, Clerk, tRPC, E2B.
 * [Mojito - GSAP](https://github.com/TpMarkov/gsap-mojito): A High-Performance Animated Portfolio Showcase
+* [GSAP-Macbook-Clone](https://github.com/TpMarkov/gsap-macbook): Apple Clone - GSAP & Three.js Macbook Showcase
 
 
 ## 📊 ɢɪᴛʜᴜʙ sᴛᴀᴛs 📊
