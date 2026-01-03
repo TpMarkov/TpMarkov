@@ -58,13 +58,6 @@ Full-Stack Developer specializing in modern web and mobile apps with AI integrat
 * [GSAP-Macbook-Clone](https://github.com/TpMarkov/gsap-macbook): Apple Clone - GSAP & Three.js Macbook Showcase
 
 
-## 📊 ɢɪᴛʜᴜʙ sᴛᴀᴛs 📊
-
-
-| Top Languages | Activity Graph |
-| --- | --- |
-| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TpMarkov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />  | <img src="https://github-readme-activity-graph.vercel.app/graph?username=TpMarkov&radius=16&theme=tokyonight&area=true&hide_border=true&hide_title=true" height="300" alt="activity-graph graph" /> |
-
 ## 📈 ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ ɢʀᴀᴘʜ 📈
 
 <div align="center">
