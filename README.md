@@ -1,4 +1,4 @@
-![React Tech Banner](https://your-hosted-image-url-for-the-provided-image.png)
+![React Tech Banner](https://i.ibb.co/M57fRP9G/8-OO-Ux-Gzv.png)
 # ɪ'ᴍ Tsvetan!
 
 *Full-Stack Developer / AI Integrator*
