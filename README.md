@@ -1,4 +1,4 @@
-[![React Banner](https://i.ibb.co.com/0jZwg3f/react-banner-fullwidth-github.png)](https://i.ibb.co.com/0jZwg3f/react-banner-fullwidth-github.png)
+<img src="https://i.ibb.co/M57fRP9G/8-OO-Ux-Gzv.png" alt="React Tech Banner" width="100%">
 
 *Full-Stack Developer / AI Integrator*
 
