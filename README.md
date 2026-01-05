@@ -58,13 +58,6 @@ Full-Stack Developer specializing in modern web and mobile apps with AI integrat
 * [GSAP-Macbook-Clone](https://github.com/TpMarkov/gsap-macbook): Apple Clone - GSAP & Three.js Macbook Showcase
 
 
-## 📈 ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ ɢʀᴀᴘʜ 📈
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TpMarkov&theme=tokyonight&radius=16&area=true&hide_border=true" height="300" alt="contribution graph" />
-</div>
----
-
 ## 🤝 ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ 🤝
 
 <div align="center">
