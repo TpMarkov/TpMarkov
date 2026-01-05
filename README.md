@@ -1,4 +1,4 @@
-[![React Banner](https://i.ibb.co.com/0jZwg3f/react-banner-fullwidth-github.png)](https://i.ibb.co.com/0jZwg3f/react-banner-fullwidth-github.png)# ɪ'ᴍ Tsvetan!
+[![React Banner](https://i.ibb.co.com/0jZwg3f/react-banner-fullwidth-github.png)](https://i.ibb.co/yBqp8gVY/8-OO-Ux-Gzv.png)# ɪ'ᴍ Tsvetan!
 
 *Full-Stack Developer / AI Integrator*
 
