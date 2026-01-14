@@ -37,7 +37,7 @@ Full-Stack Developer specializing in modern web and mobile apps with AI integrat
 
 Scan the QR code below on an Android device to download the APK:
 
-<img src="https://i.ibb.co/M57fRP9G/8-OO-Ux-Gzv.png" alt="Android APK QR Code" width="180"/>
+<img src="https://i.ibb.co/wFgGgdJt/admin-dashboard-download-qr.png" alt="Android APK QR Code" width="180"/>
 
 ---
 
