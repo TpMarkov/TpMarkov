@@ -35,7 +35,8 @@ Full-Stack Developer specializing in modern web and mobile apps with AI integrat
 
 ### 📱 Android App (APK Download)
 
-Scan the QR code below on an Android device to download the APK:
+**Admin Dashboard:** [Visit Live App](https://hair-salon-admin-dashboard-neon.vercel.app)
+Scan the QR code below on an Android device to download the admin dashboard apk:
 
 <img src="https://i.ibb.co/wFgGgdJt/admin-dashboard-download-qr.png" alt="Android APK QR Code" width="180"/>
 
