@@ -40,6 +40,13 @@ Scan the QR code below on an Android device to download the admin dashboard apk:
 
 <img src="https://i.ibb.co/wFgGgdJt/admin-dashboard-download-qr.png" alt="Android APK QR Code" width="180"/>
 
+<br/>
+
+**App homepage:** [Visit Live App](https://hair-salon-admin-dashboard-neon.vercel.app)<br/>
+Scan the QR code below on an Android device to download the main apk:
+
+<img src="https://i.ibb.co/GfRRDjnP/qr.png" alt="Android APK QR Code" width="180"/>
+
 ---
 
 ### 🛠 What This Project Demonstrates
