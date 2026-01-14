@@ -1,6 +1,7 @@
 <img src="https://i.ibb.co/M57fRP9G/8-OO-Ux-Gzv.png" alt="React Tech Banner" width="100%">
 
-*Full-Stack Developer / AI Integrator*
+# 👋 Hi, I'm Cvetan Markov  
+**Full-Stack Developer / AI Integrator**
 
 Full-Stack Developer specializing in modern web and mobile apps with AI integrations | Passionate about scalable solutions and open-source contributions.
 
@@ -11,63 +12,117 @@ Full-Stack Developer specializing in modern web and mobile apps with AI integrat
 
 ---
 
-## ᴛᴇᴄʜ sᴛᴀᴄᴋ
+## 🚀 First Real Client Project (Currently Working On)
+
+> **Live production project built for a real client**  
+> This project demonstrates real-world full-stack development, admin dashboards, and mobile app delivery.
+
+### 🌐 Live Website
+🔗 **Website:** [Visit Live App](https://hair-salon-frontend-rho.vercel.app)
+
+---
+
+### 🔐 Admin Dashboard (Demo Access)
+
+> Recruiters are welcome to log in and explore the admin functionality.
+
+- **Email:** `test@example.com`
+- **Password:** `123test`
+
+⚠️ *These are demo credentials for showcase purposes only.*
+
+---
+
+### 📱 Android App (APK Download)
+
+Scan the QR code below on an Android device to download the APK:
+
+<img src="https://i.ibb.co/M57fRP9G/8-OO-Ux-Gzv.png" alt="Android APK QR Code" width="180"/>
+
+---
+
+### 🛠 What This Project Demonstrates
+- Real **client-facing production work**
+- Secure **admin authentication & dashboard**
+- **Web + Android** application delivery
+- Full ownership: UI, backend, database, deployment
+
+---
+
+## 🧰 ᴛᴇᴄʜ sᴛᴀᴄᴋ
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" />
   <img width="8" />
-  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="30" alt="prisma logo" />
+  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="30" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo" />
+  <img src="https://skillicons.dev/icons?i=express" height="30" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="30" />
   <img width="8" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" />
   <img width="8" />
-  <img src="https://static.convex.dev/logo/convex-logo.svg" height="30" alt="convex logo" />
+  <img src="https://static.convex.dev/logo/convex-logo.svg" height="30" />
   <img width="8" />
-  <img src="https://raw.githubusercontent.com/RustForWeb/shadcn-ui/main/logo.svg" height="30" alt="shadcn logo" />
+  <img src="https://raw.githubusercontent.com/RustForWeb/shadcn-ui/main/logo.svg" height="30" />
 </div>
 
-### Current Learning
+---
 
-* Deepening knowledge in AI integrations and real-time apps.
-* Exploring Next.js 16 patterns and database ORMs.
-* Improving skills in mobile development with Android Studio.
+## 📚 Current Learning
+- AI integrations & real-time applications
+- Advanced Next.js 16 patterns
+- Database ORMs & scalable backend design
+- Android development with Android Studio
 
-### Latest Projects
+---
 
-* [NodeBase Workflow](https://github.com/TpMarkov/nodebase): Visual automation platform with drag-and-drop workflows, AI integrations, and real-time monitoring. Tech: Next.js 16, TypeScript, Prisma, React Flow.
-* [Signalist Stock Market](https://github.com/TpMarkov/liveStock): Real-time stock dashboard with heatmaps, news, and personalization. Tech: Next.js 16, TypeScript, Tailwind CSS, MongoDB.
-* [Vibe Coding Assistant](https://github.com/TpMarkov/vibe): AI-powered tool for building apps via natural language. Tech: Next.js 15, TypeScript, Clerk, tRPC, E2B.
-* [Mojito - GSAP](https://github.com/TpMarkov/gsap-mojito): A High-Performance Animated Portfolio Showcase
-* [GSAP-Macbook-Clone](https://github.com/TpMarkov/gsap-macbook): Apple Clone - GSAP & Three.js Macbook Showcase
+## 🧪 Latest Projects
 
+* [NodeBase Workflow](https://github.com/TpMarkov/nodebase)  
+  Visual automation platform with drag-and-drop workflows, AI integrations, and real-time monitoring  
+  **Tech:** Next.js 16, TypeScript, Prisma, React Flow
+
+* [Signalist Stock Market](https://github.com/TpMarkov/liveStock)  
+  Real-time stock dashboard with heatmaps, news, and personalization  
+  **Tech:** Next.js 16, TypeScript, Tailwind CSS, MongoDB
+
+* [Vibe Coding Assistant](https://github.com/TpMarkov/vibe)  
+  AI-powered app builder using natural language  
+  **Tech:** Next.js 15, TypeScript, Clerk, tRPC, E2B
+
+* [Mojito - GSAP](https://github.com/TpMarkov/gsap-mojito)  
+  High-performance animated portfolio showcase
+
+* [GSAP Macbook Clone](https://github.com/TpMarkov/gsap-macbook)  
+  Apple-style MacBook showcase using GSAP & Three.js
+
+---
 
 ## 🤝 ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ 🤝
 
 <div align="center">
   <a href="https://www.linkedin.com/in/цветан-марков-270805290" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:Markowcvetan@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://portfolio-xi-umber-iqmksi764o.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" />
   </a>
 </div>
