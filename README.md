@@ -1,5 +1,38 @@
 <img src="https://i.ibb.co/M57fRP9G/8-OO-Ux-Gzv.png" alt="React Tech Banner" width="100%">
 
+## 🧰 ᴛᴇᴄʜ sᴛᴀᴄᴋ
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="30" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=express" height="30" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="30" />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" />
+  <img width="8" />
+  <img src="https://static.convex.dev/logo/convex-logo.svg" height="30" />
+  <img width="8" />
+  <img src="https://raw.githubusercontent.com/RustForWeb/shadcn-ui/main/logo.svg" height="30" />
+</div>
+
+---
 # 👋 Hi, I'm Cvetan Markov  
 **Full-Stack Developer / AI Integrator**
 
@@ -60,39 +93,7 @@ Soon will be available on Google PlayStore
 
 ---
 
-## 🧰 ᴛᴇᴄʜ sᴛᴀᴄᴋ
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="30" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="30" />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" />
-  <img width="8" />
-  <img src="https://static.convex.dev/logo/convex-logo.svg" height="30" />
-  <img width="8" />
-  <img src="https://raw.githubusercontent.com/RustForWeb/shadcn-ui/main/logo.svg" height="30" />
-</div>
-
----
 
 ## 📚 Current Learning
 - AI integrations & real-time applications
