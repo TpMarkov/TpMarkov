@@ -1,5 +1,4 @@
 <img src="https://i.ibb.co/M57fRP9G/8-OO-Ux-Gzv.png" alt="React Tech Banner" width="100%">
-[Download your Fiverr sales video](sandbox:/mnt/data/Fiverr_Salon_Product_Final.mp4)
 
 ## 🧰 ᴛᴇᴄʜ sᴛᴀᴄᴋ
 
