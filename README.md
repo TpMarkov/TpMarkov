@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/M57fRP9G/8-OO-Ux-Gzv.png" alt="React Tech Banner" width="100%">
+<img src="[https://i.ibb.co/M57fRP9G/8-OO-Ux-Gzv.png](https://i.ibb.co/JRNRttM8/8ec9817e-4625-4a03-a523-8a7c776ff77e.jpg)" alt="React Tech Banner" width="100%">
 
 ## 🧰 ᴛᴇᴄʜ sᴛᴀᴄᴋ
 
