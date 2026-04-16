@@ -1,140 +1,112 @@
-<img src="https://i.ibb.co/Hszt6vh/cb067ddd-0d16-4e83-a4c1-d9840eff255b.png" alt="React Tech Banner" width="100%">
+<img src="https://i.ibb.co/Hszt6vh/cb067ddd-0d16-4e83-a4c1-d9840eff255b.png" alt="React Tech Banner" width="100%" />
 
-## 🧰 ᴛᴇᴄʜ sᴛᴀᴄᴋ
+# 👋 Hi, I'm Tsvetan Markov  
+### Full-Stack Developer | AI Integrations | Scalable Web Apps
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="30" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="30" />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" />
-  <img width="8" />
-  <img src="https://static.convex.dev/logo/convex-logo.svg" height="30" />
-  <img width="8" />
-  <img src="https://raw.githubusercontent.com/RustForWeb/shadcn-ui/main/logo.svg" height="30" />
-</div>
-
----
-# 👋 Hi, I'm Cvetan Markov  
-**Full-Stack Developer / AI Integrator**
-
-Full-Stack Developer specializing in modern web and mobile apps with AI integrations | Passionate about scalable solutions and open-source contributions.
-
-* ✨ Student of code :)
-* 🌱 I’m currently learning advanced Next.js, AI tools, and cloud services.
-* ❤ Contributing to Open Source.
-* 💻 Visit my [Portfolio](https://webdevstudiohq.online/) for more details about me.
+I build modern, scalable web and mobile applications with a strong focus on real-world usability and clean architecture.  
+Currently focused on **Next.js, AI integrations, and cloud-based systems**.
 
 ---
 
-## 🚀 First Real Client Project (Currently Working On)
+## 🚀 About Me
 
-> **Live production project built for a real client**  
-> This project demonstrates real-world full-stack development, admin dashboards, and mobile app delivery.
+- 💻 Full-stack developer (MERN + Next.js ecosystem)
+- 🤖 Interested in AI-powered applications & automation
+- 🌱 Currently learning advanced architecture, cloud, and real-time systems
+- 🛠 Passionate about building production-ready applications
+- 🌍 Open to freelance & full-time opportunities
 
-### 🌐 Live Website
-🔗 **Website:** [Visit Live App](https://hair-salon-frontend-rho.vercel.app)
-
----
-
-### 🔐 Admin Dashboard (Demo Access)
-
-> Recruiters are welcome to log in and explore the admin functionality.
-
-- **Email:** `test@example.com`
-- **Password:** `123test`
-
-⚠️ *These are demo credentials for showcase purposes only.*
+🔗 **Portfolio:** https://webdevstudiohq.online  
 
 ---
 
-### 📱 Android App (APK Download)
+## 🧰 Tech Stack
 
-**Admin Dashboard:** [Visit Live App](https://hair-salon-admin-dashboard-neon.vercel.app)<br/>
-Scan the QR code below on an Android device to download the admin dashboard apk:
+**Frontend**
+- React, Next.js
+- Tailwind CSS
+- GSAP, Three.js
 
-<img src="https://i.ibb.co/wFgGgdJt/admin-dashboard-download-qr.png" alt="Android APK QR Code" width="180"/>
+**Backend**
+- Node.js, Express
+- MongoDB
+- Prisma ORM
 
-<br/>
-
-**App homepage:** [Visit Live App](https://hair-salon-frontend-rho.vercel.app)<br/>
-Scan the QR code below on an Android device to download the main apk:
-
-<img src="https://i.ibb.co/GfRRDjnP/qr.png" alt="Android APK QR Code" width="180"/> <br />
-
-
-Soon will be available on Google PlayStore
-
----
-
-### 🛠 What This Project Demonstrates
-- Real **client-facing production work**
-- Secure **admin authentication & dashboard**
-- **Web + Android** application delivery
-- Full ownership: UI, backend, database, deployment
+**Tools & Platforms**
+- Firebase
+- Convex
+- Clerk Auth
+- Vercel
+- Android Studio
 
 ---
 
+## 💼 Featured Projects
 
+### 🏢 Multi-Tenant SaaS Platform
+🔗 Live: https://multi-tenants-deployment.vercel.app/admin/login  
+🔗 Repo: https://github.com/TpMarkov/multi-tenants-deployment.git  
 
-## 📚 Current Learning
-- AI integrations & real-time applications
-- Advanced Next.js 16 patterns
-- Database ORMs & scalable backend design
-- Android development with Android Studio
+A scalable multi-tenant architecture supporting multiple clients within a single system.
 
----
-
-## 🧪 Latest Projects
-
-* [NodeBase Workflow](https://github.com/TpMarkov/nodebase)  
-  Visual automation platform with drag-and-drop workflows, AI integrations, and real-time monitoring  
-  **Tech:** Next.js 16, TypeScript, Prisma, React Flow
-
-* [Signalist Stock Market](https://github.com/TpMarkov/liveStock)  
-  Real-time stock dashboard with heatmaps, news, and personalization  
-  **Tech:** Next.js 16, TypeScript, Tailwind CSS, MongoDB
-
-* [Vibe Coding Assistant](https://github.com/TpMarkov/vibe)  
-  AI-powered app builder using natural language  
-  **Tech:** Next.js 15, TypeScript, Clerk, tRPC, E2B
-
-* [Mojito - GSAP](https://github.com/TpMarkov/gsap-mojito)  
-  High-performance animated portfolio showcase
-
-* [GSAP Macbook Clone](https://github.com/TpMarkov/gsap-macbook)  
-  Apple-style MacBook showcase using GSAP & Three.js
+**Highlights:**
+- Tenant-based data isolation
+- Admin authentication system
+- Scalable backend structure
+- Production-ready deployment
 
 ---
 
-## 🤝 ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ 🤝
+### 📊 MarketCheck API Tester
+🔗 Live: https://marketcheck-api-tester-ooc4ckbix-tsvetan-markovs-projects.vercel.app/  
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/цветан-марков-270805290" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:Markowcvetan@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://portfolio-xi-umber-iqmksi764o.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" />
-  </a>
-</div>
+A tool for testing and visualizing API responses in real time.
+
+**Highlights:**
+- API request testing interface
+- Clean UI for response visualization
+- Useful for developers debugging APIs
+- Fast and responsive design
+
+---
+
+### 🌐 Portfolio Website
+🔗 https://webdevstudiohq.online  
+
+Personal portfolio showcasing projects, skills, and experience.
+
+**Highlights:**
+- Modern responsive UI
+- Smooth animations
+- Optimized performance
+- SEO-friendly structure
+
+---
+
+## 🧠 What I'm Currently Learning
+
+- Advanced Next.js patterns (App Router, Server Actions)
+- AI integrations & real-time apps
+- Scalable backend architecture
+- Cloud deployment & DevOps basics
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/цветан-марков-270805290
+- 📧 Email: Markowcvetan@gmail.com
+- 🌐 Portfolio: https://webdevstudiohq.online
+
+---
+
+## ⚡ What Sets Me Apart
+
+- I build **real, production-ready apps**, not just tutorials  
+- Focus on **clean UI + strong backend architecture**  
+- Constantly improving and learning modern technologies  
+- Able to take a project from **idea → deployment**
+
+---
+
+⭐ *Feel free to explore my repositories and reach out if you'd like to collaborate!*
