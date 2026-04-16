@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/KjCkWML6/portfolio-banner.png" alt="React Tech Banner" width="100%">
+<img src="https://i.ibb.co/Hszt6vh/cb067ddd-0d16-4e83-a4c1-d9840eff255b.png" alt="React Tech Banner" width="100%">
 
 ## 🧰 ᴛᴇᴄʜ sᴛᴀᴄᴋ
 
