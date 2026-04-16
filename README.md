@@ -1,7 +1,7 @@
 # 👋 Tsvetan Markov  
 ### Full-Stack Developer | Next.js | AI Integrations | SaaS Builder
 
-![Banner]()
+![Banner](./assets/banner.png)
 
 Building scalable, production-ready web applications with modern architecture and clean UI systems.
 
